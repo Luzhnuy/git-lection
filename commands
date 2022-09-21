@@ -1,0 +1,165 @@
+ 1000  cd home/liubomyrluzhnyi/
+ 1001  cd /var/log
+ 1002  cd /home/liubomyrluzhnyi/
+ 1003  pwd
+ 1004  ls
+ 1005  cd course/
+ 1006  pwd
+ 1007  cd /home/liubomyrluzhnyi/
+ 1008  pwd
+ 1009  cd course/
+ 1010  cd ..
+ 1011  ./school66.sql
+ 1012  mkdir PE-Adv-Mera-team
+ 1013  ls
+ 1014  cd PE-Adv-Mera-team/
+ 1015  ls
+ 1016  touch text.txt
+ 1017  nano text.txt
+ 1018  cat text.txt
+ 1019  cd /
+ 1020  ls
+ 1021  cd /etc
+ 1022  ls
+ 1023  cd mysql/
+ 1024  ls
+ 1025  cat mariadb.cnf
+ 1026  cd /
+ 1027  ls
+ 1028  cd var/
+ 1029  ls
+ 1030  cd log
+ 1031  ls
+ 1032  cat auth.log
+ 1033  cd ..
+ 1034  ls
+ 1035  cd lib/
+ 1036  ls
+ 1037  cd python/
+ 1038  ls
+ 1039  cd ..
+ 1040  ls
+ 1041  cd opt/
+ 1042  ls
+ 1043  cd /
+ 1044  ls
+ 1045  cd opt
+ 1046  ls
+ 1047  ls -l
+ 1048  cd ..
+ 1049  cd bin
+ 1050  ls
+ 1051  cd /
+ 1052  ls
+ 1053  cd root/
+ 1054  ls
+ 1055  cd home/
+ 1056  ls
+ 1057  cd /
+ 1058  cd tmp/
+ 1059  ls
+ 1060  cd
+ 1061  ls
+ 1062  cd /
+ 1063  cd
+ 1064  ls
+ 1065  pwd
+ 1066  cd /
+ 1067  pwd
+ 1068  cd
+ 1069  pwd
+ 1070  ls
+ 1071  sudo apt-get install python3
+ 1072  sudo apt-get install net-tools
+ 1073  sudo apt-get install nmap
+ 1074  sudo apt-get install python2
+ 1075  sudo apt-get remove nmap
+ 1076  sudo apt-get install nmap
+ 1077  sudo apt-get install nmap-common
+ 1078  nmap
+ 1079  cd /etc/apt/
+ 1080  ls
+ 1081  cat sources.list
+ 1082  sudo
+ 1083  cd
+ 1084  ls
+ 1085  sudo su
+ 1086  ls
+ 1087  cat root.txt
+ 1088  nano root.txt
+ 1089  ls -l
+ 1090  sudo chmod 777 root.txt
+ 1091  ls -l
+ 1092  sudo chown liubomyrluzhnyi:liubomyrluzhnyi root.txt
+ 1093  ls -l
+ 1094  sudo chmod -x root.txt
+ 1095  ls -l
+ 1096  sudo chmod +x root.txt
+ 1097  ls -l
+ 1098  sudo chmod -w root.txt
+ 1099  ls -l
+ 1100  ls
+ 1101  rm -rf text.txt root.txt
+ 1102  history
+ 1103  clear
+ 1104  git
+ 1105  clear
+ 1106  sudo apt-get install git
+ 1107  ls
+ 1108  mkdir git-lection
+ 1109  cd git-lection/
+ 1110  ls
+ 1111  git init
+ 1112  git status
+ 1113  touch first.txt
+ 1114  git status
+ 1115  git add first.txt
+ 1116  git status
+ 1117  git commit -m "first commit"
+ 1118  git status
+ 1119  nano first.txt
+ 1120  git status
+ 1121  git add first.txt
+ 1122  git status
+ 1123  git commit -m "Add some text"
+ 1124  git remote add origin https://github.com/Luzhnuy/git-lection.git
+ 1125  git push -u origin master
+ 1126  git log
+ 1127  nano first.txt
+ 1128  git checkout dev
+ 1129  git checkout -b dev
+ 1130  git status
+ 1131  ls
+ 1132  git status
+ 1133  git log
+ 1134  touch second.txt
+ 1135  git status
+ 1136  nano second.txt
+ 1137  git status
+ 1138  nano first.txt
+ 1139  git status
+ 1140  git commit -m "first changed"
+ 1141  git add .
+ 1142  git commit -m "first changed second added"
+ 1143  git log
+ 1144  git push
+ 1145  git push origin dev
+ 1146  git checkout master
+ 1147  git log
+ 1148  ls
+ 1149  git pull origin master
+ 1150  ls
+ 1151  cat second.txt
+ 1152  git log
+ 1153  sudo apt-get install nmap
+ 1154  history
+ 1155  cd projects/
+ 1156  cd VProduction/
+ 1157  sudo docker-compose up
+ 1158  cd ..
+ 1159  cd root/
+ 1160  ls -l
+ 1161  cd
+ 1162  ls
+ 1163  sudo su
+ 1164  sudo su
